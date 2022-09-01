@@ -1,3 +1,8 @@
+## Note for development
+<code>spicetify watch -s</code> - live css
+
+<code>spicetify enable-devtools </code> 
+
 # Examples
 ## Spotify themes
 [Bloom](https://github.com/nimsandu/spicetify-bloom?utm_source=pocket_mylist)
